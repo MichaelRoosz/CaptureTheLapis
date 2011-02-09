@@ -1,0 +1,14 @@
+name: CaptureTheLapis
+main: redecouverte.event.ctl.CaptureTheLapis
+version: 0.1
+website: http://forums.bukkit.org
+authors:
+  - Redecouverte
+description: Capture the flag with a lapis lazuli block.
+commands:
+  ctl:
+    description: Main ctl command
+    usage: |
+           /ctl create <name> <areaSize> <duration1stHalf> <duration2ndHalf>
+           /ctl start <name>
+           /ctl cancel <name>
