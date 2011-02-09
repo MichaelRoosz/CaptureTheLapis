@@ -1,5 +1,5 @@
 CaptureTheLapis
 ===============
 
-A ctf-stlye minigame for Bukkit/Minecraft.
+A ctf-style minigame for Bukkit/Minecraft.
 
