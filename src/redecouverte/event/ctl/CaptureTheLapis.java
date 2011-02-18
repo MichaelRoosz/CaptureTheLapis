@@ -1,26 +1,18 @@
 package redecouverte.event.ctl;
 
 import java.io.File;
-import java.util.*;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.bukkit.Server;
-import org.bukkit.plugin.java.JavaPlugin;
-import org.bukkit.plugin.PluginDescriptionFile;
-import org.bukkit.plugin.PluginLoader;
-import org.bukkit.plugin.PluginManager;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event.Priority;
 import org.bukkit.event.Event.Type;
-import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.*;
 import org.bukkit.plugin.java.*;
 import org.bukkit.Location;
 import com.nijikokun.bukkit.Permissions.Permissions;
-import java.lang.reflect.Field;
-
 
 public class CaptureTheLapis extends JavaPlugin {
 
